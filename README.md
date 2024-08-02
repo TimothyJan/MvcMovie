@@ -7,7 +7,7 @@ MVC-based apps:
     <ul>
       <li>Classes that represent the data of the app.</li>
       <li>The model classes use validation logic to enforce business rules for that data.</li>
-      <li>model objects retrieve and store model state in a database.</li>
+      <li>Model objects retrieve and store model state in a database.</li>
     </ul>
   </li>
   <li>Views: UI Logic
